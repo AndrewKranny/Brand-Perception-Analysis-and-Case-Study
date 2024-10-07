@@ -1,0 +1,318 @@
+﻿Account_Number,Interaction_ID,Contact_Date,Time,NPS_Score,Overall_Experience,Self_Service_Channel_Used,Advisor_Role,Contact_Channel,Contact_Reason,Contact_Resolution,Issue_Resolved,Verbatims
+9000001,1234531,8/15/2022,11:54:00 AM,2,1,No Attempt,Tier 1,Chat,Cancel Service,Cancel Service,Yes,bad service and awful app is the cause of me leaving
+9000001,1234545,8/13/2022,10:54:00 AM,1,1,App,Tier 1,Chat,Cancel Service,Disconnect,"No, but expect it to be resolved",DONE.
+9000002,1234523,8/11/2022,8:06:00 AM,8,5,IVR,Tier 2,Voice,Cancel Service,Change Plan,Yes,My plan costed too much but the advisor worked with me and found a cheaper plan.
+9000003,1234507,8/10/2022,11:58:00 AM,8,5,Web,Tier 2,Chat,Cancel Service,Explain Bill,Yes,I was fed up but Accommodating advisor who helped me understand my bill
+9000004,1234600,8/18/2022,12:12:00 PM,0,5,No Attempt,Tier 2,Voice,Cancel Service,Cancel Service,Yes,"Finished with TelCo Inc. the advisor was great, gave me no issues cancelling my service."
+9000005,1234503,8/10/2022,7:37:00 AM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000005,1234504,8/10/2022,7:42:00 AM,10,5,,Tier 2,Voice,Add Services,Add Device,Yes,
+9000006,1234516,8/10/2022,4:54:00 PM,8,2,,Tier 2,Voice,Add Services,Add Device,Yes,
+9000006,1234515,8/10/2022,4:23:00 PM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000007,1234512,8/10/2022,1:53:00 PM,9,3,,Tier 2,Voice,Add Services,Add Device,Yes,Shouldn't I be able to add a new device on the app?
+9000007,1234511,8/10/2022,1:36:00 PM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000008,1234529,8/11/2022,2:08:00 PM,9,3,,Tier 2,Voice,Add Services,Add Device,Yes,
+9000008,1234527,8/11/2022,1:50:00 PM,1,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000009,1234521,8/11/2022,7:06:00 AM,2,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000009,1234522,8/11/2022,7:30:00 AM,8,3,,Tier 2,Voice,Add Services,Add Device,Yes,Thanks for helping
+9000010,1234539,8/12/2022,5:31:00 PM,8,2,,Tier 2,Voice,Add Services,Add Device,Yes,I hate talking to call centers
+9000010,1234538,8/12/2022,5:16:00 PM,3,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000011,1234565,8/15/2022,8:27:00 AM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000011,1234566,8/15/2022,8:49:00 AM,8,3,,Tier 2,Voice,Add Services,Add Data,Yes,I would consider myself pretty tech savvy
+9000012,1234572,8/15/2022,7:21:00 PM,7,3,,Tier 2,Voice,Add Services,Add Data,Yes,This seems like it should have been eaier to do on my own
+9000012,1234571,8/15/2022,6:55:00 PM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000013,1234579,8/16/2022,2:28:00 PM,8,5,,Tier 2,Voice,Add Services,Add Data,Yes,
+9000013,1234578,8/16/2022,2:12:00 PM,5,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000014,1234593,8/17/2022,4:01:00 PM,2,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000014,1234594,8/17/2022,4:16:00 PM,9,5,,Tier 2,Voice,Add Services,Add Data,Yes,"Fixed, thanks"
+9000015,1234598,8/17/2022,7:21:00 PM,10,3,,Tier 2,Voice,Add Services,Add Data,Yes,
+9000015,1234597,8/17/2022,7:04:00 PM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000016,1234589,8/17/2022,10:35:00 AM,1,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000016,1234590,8/17/2022,10:55:00 AM,10,3,,Tier 2,Voice,Add Services,Add Data,Yes,Let your advisors help people
+9000017,1234605,8/18/2022,7:23:00 PM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000017,1234607,8/18/2022,7:33:00 PM,8,3,,Tier 2,Voice,Add Services,Add Data,Yes,Every advisor should be able to do everything in my opinion
+9000018,1234604,8/18/2022,1:06:00 PM,8,3,,Tier 2,Voice,Add Services,Add Data,Yes,"Don't all advisors use the same tools? If so, why did I have to be transferred?"
+9000018,1234603,8/18/2022,12:49:00 PM,7,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000019,1234613,8/19/2022,9:23:00 PM,10,3,,Tier 2,Voice,Add Services,Add Data,Yes,second advisor was more helpful. First advisor not helpful
+9000019,1234612,8/19/2022,8:56:00 PM,1,1,App,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000020,1234643,8/22/2022,6:09:00 PM,8,3,,Tier 2,Voice,Add Services,Add Data,Yes,advisor said they couldn't help and I was transferred.
+9000020,1234641,8/22/2022,5:44:00 PM,7,1,IVR,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000021,1234634,8/22/2022,7:57:00 AM,7,1,IVR,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000021,1234635,8/22/2022,8:11:00 AM,8,3,,Tier 2,Voice,Add Services,Add Data,Yes,Why?
+9000022,1234638,8/22/2022,10:15:00 AM,8,4,,Tier 2,Voice,Add Services,Add Data,Yes,"This person clearly knew what they were doing, thanks! Still don't understand why the first advisor said they couldn't help me or the system stopped me."
+9000022,1234637,8/22/2022,10:03:00 AM,2,1,IVR,Tier 1,Voice,Add Services,Transfer,"No, but expect it to be resolved",
+9000023,1234627,8/21/2022,7:14:00 AM,7,3,No Attempt,Tier 2,Voice,Add Services,Add Device,Yes,
+9000023,1234542,8/13/2022,7:31:00 AM,7,1,IVR,Tier 1,Voice,Add Services,Disconnect,"No, but expect it to be resolved",
+9000024,1234615,8/20/2022,9:25:00 AM,7,1,IVR,Tier 1,Voice,Add Services,Disconnect,"No, but expect it to be resolved",
+9000024,1234628,8/21/2022,8:15:00 AM,7,3,No Attempt,Tier 2,Voice,Add Services,Add Device,Yes,got connected on my 2nd try and got  my new device. Thanks
+9000025,1234626,8/20/2022,8:03:00 PM,8,1,App,Tier 1,Chat,Change Plan,Change Plan,Yes,advisor didnÂ’t listen well. Seems easy enough
+9000026,1234623,8/20/2022,6:26:00 PM,8,1,App,Tier 1,Chat,Change Plan,Change Plan,Yes,
+9000027,1234631,8/21/2022,4:26:00 PM,8,1,App,Tier 1,Chat,Change Plan,Change Plan,Yes,my time is valuable and I should be able to get through straight away
+9000028,1234617,8/20/2022,11:35:00 AM,8,1,IVR,Tier 2,Voice,Change Plan,Add Data,Yes,hold was never ending
+9000029,1234632,8/21/2022,5:19:00 PM,8,1,IVR,Tier 2,Voice,Change Plan,Add Device,Yes,watch the clock
+9000030,1234561,8/15/2022,7:38:00 AM,10,5,No Attempt,Tier 2,Voice,Change Plan,Add Device,Yes,Thanks for the help!
+9000031,1234636,8/22/2022,9:27:00 AM,8,3,No Attempt,Tier 1,Voice,Make a Payment,Process Payment,Yes,
+9000031,1234630,8/21/2022,2:57:00 PM,0,1,App,Tier 1,Voice,Make a Payment,Disconnect,"No, but expect it to be resolved",too many bad words to say about this whole thing
+9000032,1234556,8/21/2022,3:40:00 PM,8,2,No Attempt,Tier 1,Voice,Make a Payment,Process Payment,Yes,
+9000032,1234537,8/20/2022,3:48:00 PM,1,1,IVR,Tier 1,Voice,Make a Payment,Disconnect,"No, but expect it to be resolved",What is going on
+9000033,1234533,8/12/2022,2:05:00 PM,6,4,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,Why is it so hard?
+9000034,1234506,8/10/2022,11:30:00 AM,8,5,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,
+9000035,1234599,8/18/2022,12:04:00 PM,4,5,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,great advisor bad TelCo. get your stuff together.
+9000036,1234602,8/18/2022,12:31:00 PM,8,4,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,ran into an issue but you helped
+9000037,1234642,8/22/2022,5:59:00 PM,1,5,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,Getting tired of contacting TelCo. for everything I need to do. The advisor handled my exasperation well.
+9000038,1234610,8/19/2022,2:36:00 PM,8,5,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,"advisor was helpful, but prefer to not talk to anyone"
+9000039,1234514,8/10/2022,3:30:00 PM,8,5,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,App is awful
+9000040,1234625,8/20/2022,7:24:00 PM,1,5,IVR,Tier 1,Voice,Make a Payment,Process Payment,Yes,system is ineffective. the advisor I spoke with was quick and efficient. but annoyed TelCo can't get their technology to function.
+9000041,1234570,8/15/2022,4:38:00 PM,8,5,IVR,Tier 1,Voice,Make a Payment,Process Payment,Yes,all of the sudden I'm talking to an advisor
+9000042,1234550,8/13/2022,7:42:00 PM,5,4,IVR,Tier 1,Voice,Make a Payment,Process Payment,Yes,Did my payment go through twice? I tried through the IVR and the advisor.
+9000043,1234620,8/20/2022,4:36:00 PM,8,5,App,Tier 1,Chat,Make a Payment,Process Payment,Yes,Chat advisor helped me with my payment
+9000044,1234551,8/13/2022,7:56:00 PM,4,4,App,Tier 1,Chat,Make a Payment,Process Payment,Yes,Ridiculous! My payment kept getting rejected.
+9000045,1234502,8/10/2022,7:27:00 AM,5,5,IVR,Tier 2,Voice,Make a Payment,Process Payment,Yes,I got caught in a loop for you to take my money. Maybe it's time to look for other phone company options.
+9000046,1234595,8/17/2022,5:17:00 PM,5,5,IVR,Tier 2,Voice,Make a Payment,Process Payment,Yes, it's 2022Â…
+9000047,1234526,8/11/2022,1:35:00 PM,4,5,IVR,Tier 2,Voice,Make a Payment,Process Payment,Yes,fix the issue
+9000048,1234555,8/14/2022,2:50:00 PM,7,1,Web,Tier 1,Chat,Service Question,Disconnect,"No, but expect it to be resolved",
+9000048,1234563,8/15/2022,8:17:00 AM,8,3,No Attempt,Tier 2,Chat,Service Question,Provide Info,Yes,
+9000049,1234588,8/17/2022,10:08:00 AM,7,3,No Attempt,Tier 2,Chat,Service Question,Provide Info,Yes,Thanks for helping me get the answer
+9000049,1234546,8/13/2022,3:15:00 PM,7,1,Web,Tier 1,Chat,Service Question,Disconnect,"No, but expect it to be resolved","Do you have any chat advisors working on the weekend, got tired of waiting and will contact you again later"
+9000050,1234622,8/20/2022,6:23:00 PM,1,3,Web,Tier 1,Chat,Service Question,Provide Info,Yes,I couldn't find my answer anywhere
+9000051,1234619,8/20/2022,4:28:00 PM,4,3,Web,Tier 2,Chat,Service Question,Provide Info,Yes,"I added an extra line to my plan online and it was a super easy process, but I couldnÂ’t find any additional information when I looked at your FAQs about what plan benefits are"
+9000052,1234624,8/20/2022,6:35:00 PM,3,3,App,Tier 2,Chat,Service Question,Provide Info,Yes,TelCo. Is taking a nose dive. 
+9000053,1234629,8/21/2022,1:52:00 PM,3,2,App,Tier 1,Chat,Service Question,Provide Info,Yes,I couldn't find where to go.
+9000057,1234564,8/15/2022,8:21:00 AM,8,5,App,Tier 2,Chat,Make a Payment,Process Payment,Yes,
+9000058,1234587,8/17/2022,10:04:00 AM,3,2,Web,Tier 2,Voice,Service Question,Provide Info,Yes,Improve everything
+9000059,1234573,8/15/2022,7:31:00 PM,4,2,Web,Tier 1,Voice,Service Question,Provide Info,No,your FAQs were worthless so I called and I still didn't get my answer. Annoying.
+9000060,1234525,8/11/2022,12:04:00 PM,8,3,No Attempt,Tier 1,Voice,Service Question,Provide Info,Yes,
+9000061,1234557,8/14/2022,6:37:00 PM,2,1,Web,Tier 1,Chat,Device Question,Disconnect,"No, but expect it to be resolved",I'm losing faith in your company
+9000061,1234596,8/17/2022,5:40:00 PM,8,3,No Attempt,Tier 2,Chat,Device Question,Activate Device,Yes,
+9000062,1234640,8/22/2022,2:29:00 PM,10,5,No Attempt,Tier 1,Chat,Device Question,Activate Device,Yes,next time I'll do this myself so I don't have to talk to anyone
+9000063,1234575,8/15/2022,8:55:00 PM,10,5,No Attempt,Tier 1,Chat,Device Question,Activate Device,Yes,Thanks
+9000064,1234520,8/10/2022,7:08:00 PM,10,5,No Attempt,Tier 1,Chat,Device Question,Activate Device,Yes,Now I know
+9000065,1234586,8/17/2022,8:36:00 AM,10,5,No Attempt,Tier 1,Chat,Device Question,Activate Device,Yes,Thanks for showing me how to do this on the web!
+9000066,1234583,8/16/2022,8:28:00 PM,10,5,No Attempt,Tier 1,Chat,Device Question,Activate Device,Yes,thanks for guiding me on how to do this myself
+9000067,1234580,8/16/2022,4:21:00 PM,10,5,No Attempt,Tier 1,Voice,Device Question,Activate Device,Yes,super helpful
+9000068,1234562,8/15/2022,7:49:00 AM,3,2,App,Tier 1,Chat,Service Question,Provide Info,No,One thing after another. sort it out!!!
+9000069,1234532,8/12/2022,1:50:00 PM,1,2,App,Tier 1,Chat,Service Question,Provide Info,Yes,I don't want to have to contact you for everything
+9000070,1234505,8/10/2022,8:30:00 AM,8,3,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",
+9000070,1234618,8/18/2022,3:05:00 PM,6,2,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",disappointed the advisor took so long to understand my billing issue and this is the second time I had to call because the first didnÂ’t work
+9000071,1234552,8/13/2022,8:52:00 PM,8,3,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",Thanks for making it right
+9000071,1234582,8/16/2022,8:16:00 PM,7,3,No Attempt,Tier 2,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",There has to be a system glitch
+9000072,1234535,8/12/2022,2:41:00 PM,8,4,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",I was concerned with how much my bill was this month but they helped quickly and told me it would be correct in a week. I hope they're right.
+9000072,1234611,8/19/2022,8:09:00 PM,5,3,No Attempt,Tier 2,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",Not sure what is happening but I've waited awhile
+9000073,1234585,8/17/2022,8:05:00 AM,7,3,No Attempt,Tier 2,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved","Like your service, but not your billing issues. Something is wrong"
+9000073,1234547,8/13/2022,5:04:00 PM,8,3,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",
+9000074,1234621,8/20/2022,5:54:00 PM,8,4,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",
+9000074,1234639,8/22/2022,12:38:00 PM,7,2,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved", They donÂ’t seem to know why this is happening 
+9000075,1234544,8/13/2022,8:47:00 AM,8,4,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",
+9000075,1234601,8/18/2022,12:21:00 PM,6,3,No Attempt,Tier 2,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",Had to repeat myself
+9000076,1234543,8/13/2022,8:46:00 AM,8,3,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",
+9000076,1234633,8/22/2022,7:40:00 AM,7,4,No Attempt,Tier 2,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",should be resolved this time
+9000077,1234574,8/15/2022,8:00:00 PM,4,2,No Attempt,Tier 1,Voice,Cancel Service,Refund Account,"No, but expect it to be resolved","I cant wait much longer, but they promised it will be soon. We'll seeÂ…"
+9000077,1234548,8/13/2022,5:41:00 PM,8,4,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",I was charged more money this month for no reason. Things are tight. I'm on a fixed income. I cant have these random charges.
+9000078,1234541,8/12/2022,7:34:00 PM,8,2,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",Annoyed. When I signed up they said my bill wouldnÂ’t fluctuate. I hate having to talk on the phone when I shouldnÂ’t need to.
+9000078,1234558,8/14/2022,6:47:00 PM,5,2,No Attempt,Tier 1,Voice,Cancel Service,Refund Account,"No, but expect it to be resolved",I called to cancel because im so frustrated but they guaranteed me the refund will come tomorrow. It better
+9000079,1234606,8/18/2022,7:29:00 PM,8,2,No Attempt,Tier 1,Voice,Billing Dispute,Refund Account,"No, but expect it to be resolved",
+9000079,1234616,8/20/2022,9:40:00 AM,3,2,No Attempt,Tier 1,Voice,Cancel Service,Cancel Service,Yes,
+9000080,1234576,8/16/2022,7:15:00 AM,9,2,No Attempt,Tier 1,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Advisor was rude and didnÂ’t understand what happened. Hoping it all works out
+9000080,1234501,8/10/2022,7:15:00 AM,10,5,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Understood my issue and refunded my account
+9000081,1234513,8/10/2022,3:00:00 PM,10,5,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Thank you!!
+9000081,1234592,8/17/2022,1:27:00 PM,8,3,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",I had to contact twice
+9000082,1234540,8/12/2022,6:20:00 PM,8,5,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",advisor refunded my account and answered my question
+9000082,1234591,8/17/2022,11:18:00 AM,7,4,No Attempt,Tier 1,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",thanks
+9000083,1234534,8/12/2022,2:26:00 PM,7,4,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",
+9000083,1234519,8/10/2022,6:57:00 PM,10,5,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",
+9000084,1234517,8/10/2022,5:22:00 PM,10,3,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Just had a question about my bill and it turns out im actually getting money back
+9000084,1234530,8/11/2022,2:44:00 PM,8,2,No Attempt,Tier 1,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Had to go through the whole process again and this advisor didnÂ’t believe me
+9000085,1234536,8/12/2022,3:09:00 PM,9,2,No Attempt,Tier 1,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Advisor was clueless
+9000085,1234510,8/10/2022,1:08:00 PM,10,3,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Thanks for refunding my account
+9000086,1234577,8/16/2022,12:57:00 PM,9,3,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Had questions about overages and my balance
+9000086,1234609,8/19/2022,2:21:00 PM,8,3,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",
+9000087,1234608,8/19/2022,10:21:00 AM,7,4,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved","advisor was great, systems are broken"
+9000087,1234569,8/15/2022,3:58:00 PM,8,3,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",thanks for answering my questions
+9000088,1234509,8/10/2022,1:03:00 PM,9,3,No Attempt,Tier 1,Voice,Billing Question,Refund Account,"No, but expect it to be resolved","Pleasantly surprised, wasnÂ’t expecting a refund"
+9000088,1234549,8/13/2022,7:37:00 PM,7,4,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Hoping I get the money back soon but I wasnÂ’t expecting it in the first place.
+9000089,1234584,8/17/2022,7:16:00 AM,6,2,No Attempt,Tier 1,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Why make it so difficult to understand my bill?
+9000089,1234560,8/15/2022,7:14:00 AM,9,4,No Attempt,Tier 2,Voice,Billing Question,Refund Account,"No, but expect it to be resolved",Empathetic advisor who said it will come through this time
+9000090,1234528,8/16/2022,12:10:00 PM,8,3,No Attempt,Tier 2,Voice,Billing Question,Explain Bill,Yes,
+9000090,1234614,8/13/2022,2:01:00 PM,7,1,No Attempt,Tier 2,Voice,Billing Question,Disconnect,"No, but expect it to be resolved",what takes so long to get through?
+9000091,1234524,8/13/2022,9:19:00 AM,2,1,No Attempt,Tier 2,Voice,Billing Question,Disconnect,"No, but expect it to be resolved",Calling back
+9000091,1234554,8/14/2022,2:30:00 PM,8,3,No Attempt,Tier 2,Voice,Billing Question,Explain Bill,No,"I still don't understand what's up with my bill, but at least I got connected faster"
+9000092,1234567,8/13/2022,5:22:00 PM,7,1,No Attempt,Tier 1,Voice,Billing Question,Disconnect,"No, but expect it to be resolved",too long
+9000092,1234518,8/17/2022,3:34:00 PM,9,3,No Attempt,Tier 2,Voice,Billing Question,Explain Bill,Yes,"Much better, thanks"
+9000093,1234508,8/14/2022,1:03:00 PM,7,1,No Attempt,Tier 1,Voice,Billing Question,Disconnect,"No, but expect it to be resolved",Does anyone work there?
+9000093,1234581,8/16/2022,5:24:00 PM,8,3,No Attempt,Tier 2,Voice,Billing Question,Explain Bill,Yes,
+9000094,1234568,8/15/2022,1:10:00 PM,9,3,No Attempt,Tier 2,Voice,Billing Question,Explain Bill,Yes,
+9000094,1234559,8/14/2022,7:14:00 AM,5,1,No Attempt,Tier 1,Voice,Billing Question,Disconnect,"No, but expect it to be resolved",I have better things to do with my time.
+9000095,1234553,8/14/2022,7:40:00 AM,8,5,IVR,Tier 1,Voice,Make a Payment,Process Payment,Yes,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,Self_Service_Channel_Used,Count,,
+,,,,,Contact Channel,Average of NPS_Score,Average of Overall_Experience,,No Attempt,67,,
+,,,,,Chat,6.121212121,3.303030303,,App,34,,
+,,,,,Voice,6.881818182,2.745454545,,NA,18,,
+,,,,,,,,,IVR,16,,
+,,,,,,,,,Web,8,,
+,,,,,Advisor Role,Average of NPS_Score,Average of Overall_Experience,,Total,143,,
+,,,,,Tier 1,6.040540541,2.256756757,,,,,
+,,,,,Tier 2,7.420289855,3.536231884,,Contact_Reason,Count,,
+,,,,,,,,,Add Services,40,,
+,,,,,,,,,Billing Question,30,,
+,,,,,Self Service Channel,Average of NPS_Score,Average of Overall_Experience,,Make a Payment,21,,
+,,,,,App,4.970588235,2.235294118,,Billing Dispute,17,,
+,,,,,IVR,5.6875,2.9375,,Service Question,13,,
+,,,,,No Attempt,7.597014925,3.149253731,,Cancel Service,8,,
+,,,,,Web,4.5,2.25,,Device Question,8,,
+,,,,,(blank),8.555555556,3.277777778,,Change Plan,6,,
+,,,,,,,,,Total,143,,
+,,,,,,,,,,,,
+,,,,,Contact Reasons,Average of NPS_Score,Average of Overall_Experience,,Contact_Resolution,Count,,
+,,,,,Add Services,6.725,2.125,,Refund Account,39,,
+,,,,,Billing Dispute,7.352941176,3.058823529,,Process Payment,19,,
+,,,,,Billing Question,7.966666667,2.966666667,,Transfer,18,,
+,,,,,Cancel Service,3.875,2.875,,Disconnect,13,,
+,,,,,Change Plan,8.333333333,1.666666667,,Add Data,13,,
+,,,,,Device Question,8.75,4.25,,Provide Info,11,,
+,,,,,Make a Payment,5.523809524,4.19047619,,Add Device,10,,
+,,,,,Service Question,4.538461538,2.307692308,,Activate Device,7,,
+,,,,,,,,,Explain Bill,6,,
+,,,,,,,,,Change Plan,4,,
+,,,,,Contact Resolutions,Average of NPS_Score,Average of Overall_Experience,,Cancel Service,3,,
+,,,,,Activate Device,9.714285714,4.714285714,,Total,143,,
+,,,,,Add Data,8.461538462,3.230769231,,,,,
+,,,,,Add Device,8.4,3,,Contact_Channel,Count,,
+,,,,,Cancel Service,1.666666667,2.666666667,,Voice,110,,
+,,,,,Change Plan,8,2,,Chat,33,,
+,,,,,Disconnect,4.615384615,1,,Total,143,,
+,,,,,Explain Bill,8.333333333,3.333333333,,,,,
+,,,,,Process Payment,6.052631579,4.526315789,,Advisor_Role,Count,,
+,,,,,Provide Info,4.090909091,2.545454545,,Tier 1,74,,
+,,,,,Refund Account,7.769230769,3.205128205,,Tier 2,69,,
+,,,,,Transfer,4.833333333,1,,Total,143,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,Issue Resolved?,Average of NPS_Score,Average of Overall_Experience,,Contact_Date,Count,,
+,,,,,No,5,2.333333333,,8/15/2022,16,,
+,,,,,"No, but expect it to be resolved",6.428571429,2.228571429,,8/13/2022,14,,
+,,,,,Yes,7.057142857,3.542857143,,8/11/2022,8,,
+,,,,,,,,,8/10/2022,18,,
+,,,,,,,,,8/18/2022,10,,
+,,,,,,,,,8/12/2022,9,,
+,,,,,,,,,8/16/2022,9,,
+,,,,Row Labels,Count of NPS_Score,,,,8/17/2022,16,,
+,,,,App,34,,,,8/19/2022,6,,
+,,,,IVR,16,,,,8/22/2022,11,,
+,,,,No Attempt,67,,,,8/21/2022,7,,
+,,,,Web,8,,,,8/20/2022,12,,
+,,,,(blank),18,,,,8/14/2022,7,,
+,,,,Grand Total,143,,,,Total,143,,
+,,,,,,,,,,,,
+,,,,,,,,,NPS,Count,,
+,,,,,,,,,0-6 (Detractors),40,,
+,,,,,,,,,7 and 8 (Passives),77,,
+,,,,,,,,,9 and 10 (Promoters),26,,
+,,,,,,,,,NPS,-10%,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,Self Service Channel Used,NPS Score (Raw),NPS Score Count,NPS Score (Calculated),,Self Service Channel,Sum of NPS Score (Calculated),Average of Overall Experience,,,
+,,App,0-6 (Detractors),17,-50%,,App,-50%,2.235294118,,,
+,,,7 and 8 (Passives),17,,,IVR,-44%,2.9375,,,
+,,,9 and 10 (Promoters),0,,,NA,39%,3.149253731,,,
+,,IVR,0-6 (Detractors),7,-44%,,No Attempt,12%,2.25,,,
+,,,7 and 8 (Passives),9,,,Web,-63%,3.277777778,,,
+,,,9 and 10 (Promoters),0,,,,,,,,
+,,No Attempt,0-6 (Detractors),11,12%,,,,,,,
+,,,7 and 8 (Passives),37,,,,,,,,
+,,,9 and 10 (Promoters),19,,,,,,,,
+,,Web,0-6 (Detractors),5,-63%,,,,,,,
+,,,7 and 8 (Passives),3,,,,,,,,
+,,,9 and 10 (Promoters),0,,,,,,,,
+,,NA,0-6 (Detractors),0,39%,,,,,,,
+,,,7 and 8 (Passives),11,,,,,,,,
+,,,9 and 10 (Promoters),7,,,,,,,,
+,,,,,,,,,,,,
+,,Support Tier,NPS Score (Raw),NPS Score Count,NPS Score (Calculated),,Row Labels,Sum of NPS Score (Calculated),Average of Overall_Experience,,,
+,,Tier 1,0-6 (Detractors),27,-24%,,Tier 1,-24%,2.256756757,,,
+,,,7 and 8 (Passives),38,,,Tier 2,6%,3.536231884,,,
+,,,9 and 10 (Promoters),9,,,,,,,,
+,,Tier 2,0-6 (Detractors),13,6%,,,,,,,
+,,,7 and 8 (Passives),39,,,,,,,,
+,,,9 and 10 (Promoters),17,,,,,,,,
+,,,,,,,,,,,,
+,,Contact Resolution,NPS Score (Raw),NPS Score Count,NPS Score (Calculated),,Row Labels,Sum of NPS Score (Calculated),,Row Labels,Sum of NPS Score (Calculated),
+,,Activate Device,0-6 (Detractors),0,86%,,Activate Device,0.857142857,,Tier 1,-0.243243243,
+,,,7 and 8 (Passives),1,,,Add Data,0.307692308,,Tier 2,0.057971014,
+,,,9 and 10 (Promoters),6,,,Add Device,0.4,,(blank),,
+,,Add Data,0-6 (Detractors),0,31%,,Cacel Service,-1,,Grand Total,-0.185272229,
+,,,7 and 8 (Passives),9,,,Change Plan,0,,,,
+,,,9 and 10 (Promoters),4,,,Disconnect,-0.461538462,,Row Labels,Sum of NPS Score (Calculated),
+,,Add Device,0-6 (Detractors),0,40%,,Explain Bill,0.333333333,,App,-0.5,
+,,,7 and 8 (Passives),6,,,Process Payment,-0.473684211,,IVR,-0.4375,
+,,,9 and 10 (Promoters),4,,,Provide Info,-0.727272727,,NA,0.388888889,
+,,Cancel Service,0-6 (Detractors),3,-100%,,Refund Account,0.102564103,,No Attempt,0.119402985,
+,,,7 and 8 (Passives),0,,,Transfer,-0.444444444,,Web,-0.625,
+,,,9 and 10 (Promoters),0,,,(blank),,,(blank),,
+,,Change Plan,0-6 (Detractors),0,0%,,Grand Total,-1.106207243,,Grand Total,-1.054208126,
+,,,7 and 8 (Passives),4,,,,,,,,
+,,,9 and 10 (Promoters),0,,,Contact Resolution,Sum of NPS Score (Calculated),Average of Overall_Experience,,,
+,,Disconnect,0-6 (Detractors),6,-46%,,Activate Device,86%,4.714285714,,,
+,,,7 and 8 (Passives),7,,,Add Data,31%,3.230769231,,,
+,,,9 and 10 (Promoters),0,,,Add Device,40%,3,,,
+,,Explain Bill,0-6 (Detractors),0,33%,,Cancel Service,-100%,2.666666667,,,
+,,,7 and 8 (Passives),4,,,Change Plan,0%,2,,,
+,,,9 and 10 (Promoters),2,,,Disconnect,-46%,1,,,
+,,Process Payment,0-6 (Detractors),9,-47%,,Explain Bill,33%,3.333333333,,,
+,,,7 and 8 (Passives),10,,,Process Payment,-47%,4.526315789,,,
+,,,9 and 10 (Promoters),0,,,Provide Info,-73%,2.545454545,,,
+,,Provide Info,0-6 (Detractors),8,-73%,,Refund Account,10%,3.205128205,,,
+,,,7 and 8 (Passives),3,,,Transfer,-44%,1,,,
+,,,9 and 10 (Promoters),0,,,,,,,,
+,,Refund Account,0-6 (Detractors),6,10%,,,,,,,
+,,,7 and 8 (Passives),23,,,,,,,,
+,,,9 and 10 (Promoters),10,,,,,,,,
+,,Transfer,0-6 (Detractors),8,-44%,,,,,,,
+,,,7 and 8 (Passives),10,,,,,,,,
+,,,9 and 10 (Promoters),0,,,,,,,,
+,,,,,,,,,,,,
+,,Contact Reason,NPS Score (Raw),NPS Score Count,NPS Score (Calculated),,Contact Reason,Calculated NPS Score,Average of Overall_Experience,,,
+,,Add Services,0-6 (Detractors),8,-3%,,Add Services,-3%,2.125,,,
+,,,7 and 8 (Passives),25,,,Billing Dispute,-18%,3.058823529,,,
+,,,9 and 10 (Promoters),7,,,Billing Question,30%,2.966666667,,,
+,,Billing Question,0-6 (Detractors),3,30%,,Cancel Service,-75%,2.875,,,
+,,,7 and 8 (Passives),15,,,Change Plan,17%,1.666666667,,,
+,,,9 and 10 (Promoters),12,,,Device Question,63%,4.25,,,
+,,Make a Payment,0-6 (Detractors),11,-52%,,Make a Payment,-52%,4.19047619,,,
+,,,7 and 8 (Passives),10,,,Service Question,-62%,2.307692308,,,
+,,,9 and 10 (Promoters),0,,,(blank),,,,,
+,,Billing Dispute,0-6 (Detractors),3,-18%,,,,,,,
+,,,7 and 8 (Passives),14,,,Contact Reason,Calculated NPS Score,,,,
+,,,9 and 10 (Promoters),0,,,Add Services,-3%,,,,
+,,Service Question,0-6 (Detractors),8,-62%,,Billing Dispute,-18%,,,,
+,,,7 and 8 (Passives),5,,,Billing Question,30%,,,,
+,,,9 and 10 (Promoters),0,,,Cancel Service,-75%,,,,
+,,Cancel Service,0-6 (Detractors),6,-75%,,Change Plan,17%,,,,
+,,,7 and 8 (Passives),2,,,Device Question,63%,,,,
+,,,9 and 10 (Promoters),0,,,Make a Payment,-52%,,,,
+,,Device Question,0-6 (Detractors),1,63%,,Service Question,-62%,,,,
+,,,7 and 8 (Passives),1,,,,,,,,
+,,,9 and 10 (Promoters),6,,,,,,,,
+,,Change Plan,0-6 (Detractors),0,17%,,,,,,,
+,,,7 and 8 (Passives),5,,,,,,,,
+,,,9 and 10 (Promoters),1,,,,,,,,
+,,,,,,,,,,,,
+,,Overall Experience,NPS Score (Raw),NPS Score Count,NPS Score (Calculated),,Row Labels,Sum of NPS Score (Calculated),,,,
+,,1.00,0-6 (Detractors),15,-41%,,1,-0.405405405,,,,
+,,,7 and 8 (Passives),22,,,2,-0.421052632,,,,
+,,,9 and 10 (Promoters),0,,,3,0.142857143,,,,
+,,2.00,0-6 (Detractors),10,-42%,,4,-0.133333333,,,,
+,,,7 and 8 (Passives),7,,,5,0.166666667,,,,
+,,,9 and 10 (Promoters),2,,,(blank),,,,,
+,,3.00,0-6 (Detractors),5,14%,,,,,,,
+,,,7 and 8 (Passives),26,,,Overall Experience,Sum of NPS Score (Calculated),,,,
+,,,9 and 10 (Promoters),11,,,1,-41%,,,,
+,,4.00,0-6 (Detractors),3,-13%,,2,-42%,,,,
+,,,7 and 8 (Passives),11,,,3,14%,,,,
+,,,9 and 10 (Promoters),1,,,4,-13%,,,,
+,,5.00,0-6 (Detractors),7,17%,,5,17%,,,,
+,,,7 and 8 (Passives),11,,,,,,,,
+,,,9 and 10 (Promoters),12,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
