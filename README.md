@@ -47,8 +47,21 @@ The resolution for the customer's issue (Cancel Service, Transfer, Refund Accoun
 All of the data analysis can be found in the Excel or CSV files above
 
 ### Presentation of Findings
-![image](https://gyazo.com/62e04c4fb3d1aad470b19b2cc6188ec3)
+![Slide1](https://github.com/user-attachments/assets/1eb5a84c-67ee-46f3-9646-be0db07e3f29)
 
+![Slide2](https://github.com/user-attachments/assets/89065bdd-932c-4068-be19-666cd30a8594)
+
+![Slide3](https://github.com/user-attachments/assets/0e07ea4d-2fbd-4f05-9822-893f6b1a16cb)
+
+![Slide4](https://github.com/user-attachments/assets/c71a1b52-2862-4e3c-895b-5c637104e3c6)
+
+![Slide5](https://github.com/user-attachments/assets/e3a3f190-3281-461f-ab0c-370220beceb1)
+
+![Slide6](https://github.com/user-attachments/assets/00e72580-beb9-4141-8671-f00d1edd21f5)
+
+![Slide7](https://github.com/user-attachments/assets/e3a5dd0b-647e-4f2f-895e-1550577c4b3c)
+
+![Slide8](https://github.com/user-attachments/assets/c55e684a-66e6-4bd7-b5b5-b8a1dbddbeae)
 
 
 
