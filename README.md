@@ -1,6 +1,6 @@
 # Brand Perception Case Study
  
-### Problem Breifing
+## Problem Breifing
 TelCo Inc., a telecommunications company, has noticed that the company’s customer satisfaction (CSAT)
 scores are low and contact volume is high.
 The client is concerned about how the poor experience is impacting their brand perception. The client
@@ -9,7 +9,7 @@ what their customers pain points are.
 They have asked you to analyze their current state and identify if there is anything driving these issues
 and then present the story behind the numbers at an executive meeting.
 
-### Data Definitions
+## Data Definitions
 #### Account Number
 The number that is assigned to each customer account
 
@@ -43,10 +43,10 @@ The reason the customer contacted customer support (Billing Dispute, Billing Que
 #### Contact Resolution
 The resolution for the customer's issue (Cancel Service, Transfer, Refund Account, Explain Bill, Add Device, Add Data, Activate Device, Change Plan, Process Payment, Provide Info, Disconnect)
 
-### Data Analysis
+## Data Analysis
 All of the data analysis can be found in the Excel or CSV files above
 
-### Presentation of Findings
+## Presentation of Findings
 ![Slide1](https://github.com/user-attachments/assets/1eb5a84c-67ee-46f3-9646-be0db07e3f29)
 
 ![Slide2](https://github.com/user-attachments/assets/89065bdd-932c-4068-be19-666cd30a8594)
