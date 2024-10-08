@@ -47,7 +47,7 @@ The resolution for the customer's issue (Cancel Service, Transfer, Refund Accoun
 All of the data analysis can be found in the Excel or CSV files above
 
 ### Presentation of Findings
-![alt text](https://gyazo.com/62e04c4fb3d1aad470b19b2cc6188ec3/to/img.png)
+![alt text](https://github.com/andrewkranny/Brand-Perception_Analysis-and-Case-Study/blob/Slide-Pictures/Slide1.png)
 
 
 
