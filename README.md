@@ -7,7 +7,7 @@ The client is concerned about how the poor experience is impacting their brand p
 thinks there are some opportunities to improve the end-to-end customer experience, but they are not sure
 what their customers pain points are.
 They have asked you to analyze their current state and identify if there is anything driving these issues
-and then present the story behind the numbers at an executive meeting.
+and then present the story behind the numbers at an executive meeting. After conducting your analysis, prepare your findings in PowerPoint.
 
 ## Data Definitions
 #### Account Number
