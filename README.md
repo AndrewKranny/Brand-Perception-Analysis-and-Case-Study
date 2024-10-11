@@ -1,7 +1,7 @@
 # Brand Perception Case Study
  
 ## Problem Breifing
-TelCo Inc., a telecommunications company, has noticed that the company’s customer satisfaction (CSAT)
+TelCo Inc., a telecommunications company, has noticed that the company’s customer satisfaction
 scores are low and contact volume is high.
 The client is concerned about how the poor experience is impacting their brand perception. The client
 thinks there are some opportunities to improve the end-to-end customer experience, but they are not sure
